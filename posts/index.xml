@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jun 2023 14:27:50 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MyFirstBlog</title>
+      <link>/posts/myfirstblog/</link>
+      <pubDate>Fri, 30 Jun 2023 14:27:50 +0800</pubDate>
+      
+      <guid>/posts/myfirstblog/</guid>
+      <description>
+        
+          
+            #这是我的第一篇博客内容 问题：配置环境变量路径时，命令符中显示hugo不是内外部程序，环境变量配置失败 解决方案：1.关闭多余的命令提示符的窗口 2.检查配置路径均为文件夹才行（切勿将zipped文件直接放到路径中）
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
